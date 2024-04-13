@@ -8,10 +8,10 @@ function Footer() {
         <footer>
             <Container>
                 <Row className="align-items-center">
-                    <Col sm={6}>
+                    <Col sm={4}>
                         <img src={require('../assets/img/logo.png')} alt="logo" />
                     </Col>
-                    <Col sm={6} className='d-flex align-items-center justify-content-center'>
+                    <Col sm={8} className='d-flex align-items-center justify-content-center'>
                         <div className='social-icon d-inline-flex align-items-center justify-content-center'>
                             <a href="https://www.linkedin.com/in/mohamed-amine-guesmi-061923230/" className="ms-1"><img src={navIcon1} alt="" /></a>
                             <a href="https://www.facebook.com/amine.125.gasmi/" className="ms-1"><img src={navIcon2} alt="" /></a>
