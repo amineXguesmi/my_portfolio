@@ -67,7 +67,7 @@ function Project() {
             githubUrl: "https://github.com/amineXguesmi/Smart_Portation"
 
 
-        },{
+        }, {
             title: "currency converter",
             description: "Flutter",
             imgUrl: require("../assets/img/currency_exchange.png"),
@@ -113,7 +113,7 @@ function Project() {
                     <Row>
                         <Col>
                             <h2>Projects</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius non quam a veritatis iste autem consequatur, possimus dolorem excepturi unde reiciendis ipsam explicabo perferendis voluptatibus necessitatibus sint aspernatur nemo veniam.</p>
+                            <p>i have undertaken several projects that showcase my skills and abilities in building applications. Below are some highlights of my recent projects</p>
                             <Tab.Container id="projects-tabs" defaultActiveKey="first">
                                 <Nav variant="pills" className='nav-pills mb-5 justify-content-center align-items-center' id="pills-tab">
 

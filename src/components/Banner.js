@@ -56,8 +56,10 @@ export const Banner = () => {
                             <span className='wrap'> {text}</span>
                         </h2>
                         <p>
-                            I am a hardworking and ambitious individual witha great passion for the applications development .
-                            I am currently in first year in software engineering in INSAT.
+                            I am a hardworking and ambitious individual with a great passion for the applications development .
+                            I am currently in second year in software engineering in INSAT with expertise in mobile
+                            and web development and dipping into devops .
+                            
                         </p>
                         <div class="buttons">
                             <button class="btn" onClick={scrollToContact}><span></span><p data-start="Let's connect" data-text="Excellen" data-title="Let's connect"></p></button>
